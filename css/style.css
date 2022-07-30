@@ -177,6 +177,14 @@ a {
     left: 0;
 }
 
+.humbger {
+    display: none;
+}
+
+.humbger__menu {
+    display: none;
+}
+
 @media screen and (max-width: 991px) {
     .content {
         width: auto;
